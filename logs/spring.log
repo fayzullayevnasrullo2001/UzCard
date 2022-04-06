@@ -1,0 +1,20 @@
+06 апр 2022 - 17:27:03.728 -  INFO  - com.company.UzCard.UzCardApplication - Starting UzCardApplication using Java 1.8.0_312 on DESKTOP-IAEBTEB with PID 10924 (C:\Users\Nasrullo\Desktop\UzCard (2)\UzCard\target\classes started by Nasrullo in C:\Users\Nasrullo\Desktop\UzCard (2))
+06 апр 2022 - 17:27:03.737 -  INFO  - com.company.UzCard.UzCardApplication - No active profile set, falling back to 1 default profile: "default"
+06 апр 2022 - 17:27:04.705 -  INFO  - o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+06 апр 2022 - 17:27:04.762 -  INFO  - o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 38 ms. Found 3 JPA repository interfaces.
+06 апр 2022 - 17:27:05.209 -  INFO  - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+06 апр 2022 - 17:27:05.213 -  INFO  - o.a.catalina.core.StandardService - Starting service [Tomcat]
+06 апр 2022 - 17:27:05.213 -  INFO  - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+06 апр 2022 - 17:27:06.191 -  INFO  - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+06 апр 2022 - 17:27:06.191 -  INFO  - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2407 ms
+06 апр 2022 - 17:27:06.333 -  INFO  - o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+06 апр 2022 - 17:27:06.365 -  INFO  - org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+06 апр 2022 - 17:27:06.513 -  INFO  - o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+06 апр 2022 - 17:27:06.583 -  INFO  - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+06 апр 2022 - 17:27:06.774 -  INFO  - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+06 апр 2022 - 17:27:06.795 -  INFO  - org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+06 апр 2022 - 17:27:06.900 -  WARN  - org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+06 апр 2022 - 17:27:07.380 -  INFO  - o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+06 апр 2022 - 17:27:07.395 -  INFO  - o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+06 апр 2022 - 17:27:07.418 -  WARN  - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+06 апр 2022 - 17:27:08.076 -  INFO  - o.s.s.web.DefaultSecurityFilterChain - Will not secure any request
